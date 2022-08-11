@@ -46,7 +46,7 @@ header p {
 
 section h2 {
   font-family:'calistoga', serif;
-  font-size:25px;
+  font-size:x-large;
   padding: 10px;
   margin: 0 auto;
   
@@ -56,7 +56,7 @@ section h2 {
 
 section p{
   font-family:'Cambria';
-  font-size:20px;
+  font-size:large;
   margin: 0 auto;
   padding-bottom:15px;
   
