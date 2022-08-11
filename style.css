@@ -1,62 +1,67 @@
 /*Geral*/
 
 *{
-    margin:0;
-    padding:0;
-  }
-  
-  body{
-  background-color: #e7ccb097 ;
+  margin:0;
+  padding:0;
+}
+
+body{
+background-color: #e7ccb097 ;
+margin: 0 auto;
+
+}
+
+/*Grupos*/
+
+h2, .description {
+  max-width: 700px;
+  margin:auto;
+}
+
+/*Texto*/
+
+h1{
   margin: 0 auto;
-  
-  }
-  
-  /*Grupos*/
-  
-  /*Texto*/
-  
-  h1{
-    margin: 0 auto;
-    text-align: center;
-    background-color: #bb6f1e;
-    font-family:'calistoga';
-    margin-bottom: 6px;
-    font-size: 32px; 
-    padding: 15px 0 ;
-  }
-  
-  header p {
-    font-size: 16px;
-    font-family:'Cambria' serif;
-    color: rgb(118,113,113);
-    text-align:center;
-    padding-bottom: 20px;
-    margin: 0 auto;
-  }
-  
-  body section {
-    max-width:fit-content;
-  }
-  
-  section h2 {
-    font-family:'calistoga', serif;
-    font-size:25px;
-    padding: 10px;
-    margin: 0 auto;
-    padding-left:80px;
-    padding-bottom:15px;
-  
-  }
-  
-  section p{
-    font-family:'Cambria';
-    font-size:20px;
-    margin: 0 auto;
-    padding-bottom:15px;
-    padding-left:100px;
-  }
-  
-  section {
-    max-width:470px;
-    padding-bottom: 10px;
-  }
+  text-align: center;
+  background-color: #bb6f1e;
+  font-family:'calistoga';
+  margin-bottom: 6px;
+  font-size: 32px; 
+  padding: 15px 0 ;
+}
+
+header p {
+  font-size: 16px;
+  font-family:'Cambria' serif;
+  color: rgb(118,113,113);
+  text-align:center;
+  padding-bottom: 20px;
+  margin: 0 auto;
+}
+
+body section {
+  max-width:fit-content;
+}
+
+section h2 {
+  font-family:'calistoga', serif;
+  font-size:25px;
+  padding: 10px;
+  margin: 0 auto;
+  padding-left:80px;
+  padding-bottom:15px;
+
+}
+
+section p{
+  font-family:'Cambria';
+  font-size:20px;
+  margin: 0 auto;
+  padding-bottom:15px;
+  padding-left:100px;
+}
+
+section {
+  max-width:470px;
+  padding-bottom: 10px;
+}
