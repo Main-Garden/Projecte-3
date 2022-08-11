@@ -13,9 +13,12 @@ margin: 0 auto;
 
 /*Grupos*/
 
-h2, .description {
-  max-width: 700px;
-  margin:auto;
+section {
+  
+  margin: 0 auto;
+  padding: 0 250px;
+  border: 3px solid red;
+
 }
 
 /*Texto*/
@@ -39,16 +42,14 @@ header p {
   margin: 0 auto;
 }
 
-body section {
-  max-width:fit-content;
-}
+
 
 section h2 {
   font-family:'calistoga', serif;
   font-size:25px;
   padding: 10px;
   margin: 0 auto;
-  padding-left:80px;
+  
   padding-bottom:15px;
 
 }
@@ -58,7 +59,7 @@ section p{
   font-size:20px;
   margin: 0 auto;
   padding-bottom:15px;
-  padding-left:100px;
+  
 }
 
 section {
