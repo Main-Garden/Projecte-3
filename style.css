@@ -25,13 +25,13 @@ h1{
   margin-bottom: 6px;
   padding: 15px 0;
   font-family:'calistoga';
-  font-size: 32px;
+  font-size:xx-large;
   text-align: center;
 
 }
 
 header p {
-  font-size: 16px;
+  font-size:medium;
   font-family:'Cambria' serif;
   color: rgb(118,113,113);
   text-align:center;
@@ -42,19 +42,18 @@ header p {
 /*Texto*/
 
 section h2 {
+  margin:auto;
   font-family:'calistoga', serif;
   font-size:x-large;
   padding: 10px;
-  margin:auto;
-  
   padding-bottom:15px;
 
 }
 
 section p{
+  margin: 0 auto;
   font-family:'Cambria';
   font-size:large;
-  margin: 0 auto;
   padding-bottom:15px;
   
 }
