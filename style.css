@@ -13,8 +13,9 @@ background-color: #e7ccb097 ;
 
 section {
   margin:auto;
-  padding-bottom: 10px;
-  padding:3vw;
+  padding-bottom: 0px;
+  padding:0 3vw;
+  
 
 }
 
@@ -47,7 +48,8 @@ section h2 {
   font-family:'calistoga', serif;
   font-size:x-large;
   padding: 10px;
-  padding-bottom:15px;
+  padding-bottom:10px;
+  
 
 }
 
@@ -55,6 +57,6 @@ section p{
   margin: 0 auto;
   font-family:'Cambria';
   font-size:large;
-  padding-bottom:15px;
+  padding-bottom:4vw;
   
 }
