@@ -13,9 +13,11 @@ background-color: #e7ccb097 ;
 
 section {
   margin:auto;
+  padding-bottom: 10px;
+  padding-left:3vw;
 }
 
-/*Texto*/
+/*Titulo*/
 
 h1{
   background-color: #bb6f1e;
@@ -37,13 +39,13 @@ header p {
   margin: 0 auto;
 }
 
-
+/*Texto*/
 
 section h2 {
   font-family:'calistoga', serif;
   font-size:x-large;
   padding: 10px;
-  margin: 0 auto;
+  margin:auto;
   
   padding-bottom:15px;
 
@@ -55,9 +57,4 @@ section p{
   margin: 0 auto;
   padding-bottom:15px;
   
-}
-
-section {
-  max-width:470px;
-  padding-bottom: 10px;
 }
